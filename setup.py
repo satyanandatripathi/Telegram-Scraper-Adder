@@ -20,8 +20,8 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}Subscribe Termux Professor on Youtube
-	{cy}www.youtube.com/c/TermuxProfessorYT
+	{re}Subscribe lallantop's channel 
+	{cy}https://youtube.com/channel/UCagxVXpjpvgccY7JObHuUzA
 	""")
 banner()
 print(gr+"[+] Installing requierments ...")
@@ -43,4 +43,4 @@ setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/termuxprofessor/TeleGram-Scraper-Adder/blob/master/README.md")
+print(gr+"[+] https://github.com/satyanandatripathi/TeleGram-Scraper-Adder/blob/master/README.md")
