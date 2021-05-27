@@ -42,12 +42,16 @@
 
 `$ python setup.py`
 
-* To Scare members from group.
+* To Scarape members from group. 
+    (Do step given below after doing setup.py)
 
 `$ python scraper.py`
 
-* Add Scarped members to your group. 
+
+* After successfully creating log in session in scraper.py and successfully scraping members to  Add Scarped members to your group.  Do that:-
 
 `$ python adder.py`
 
+
+Then you can create multiple terminal session to use multiple accounts
 
